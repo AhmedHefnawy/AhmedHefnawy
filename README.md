@@ -9,9 +9,7 @@
 
 - Working on Data Science [ml time series analysis and anomaly detection](commercial product reach me for more details)
 
-- 👨‍💻 All of my R.D projects Documentations @ [https://github.com/AhmedHefnawy](https://github.com/AhmedHefnawy)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ahmedhefnawy](https://www.linkedin.com/in/ahmedhefnawy)
+- All of my R.D projects Documentations @ [https://github.com/AhmedHefnawy](https://github.com/AhmedHefnawy)
 
 - Ask Me about **ML, DL, Analytics, Computer Vision, R.D**
 
