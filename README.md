@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hefnawy</h1>
-<h3 align="center">Ai software Engineer/MLops</h3>
+<h3 align="center">Ai Software Engineer/MLops</h3>
 
 - Working on GeoAi and Computer Vision [Real-Time vehicles Detection with spatial tracking interactive map](commercial product reach me for more details)
 
