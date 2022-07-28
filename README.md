@@ -15,7 +15,7 @@
 
 - Ask Me about **ML, DL, Analytics, Computer Vision, R.D**
 
-- 📫 How to reach me **ahmedhefnawy1811@gmail.com**
+- reach me **ahmedhefnawy1811@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
