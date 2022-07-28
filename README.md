@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **ahmedhefnawy1811@gmail.com**
 
-- 📄 Know about my experiences [CV](CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
