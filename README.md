@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hefnawy</h1>
 <h3 align="center">Ai Software Engineer/MLops</h3>
 
-- Working on GeoAi and Computer Vision [Real-Time vehicles Detection with spatial tracking interactive map](commercial product reach me for more details)
-
-- I’m currently learning **Geometry DeepLearning, Graph Neural Network**
-
-- Working on Deep learning on Satellite images [Crop classification and object detection from satellite images](commercial product reach me for more details)
-
-- Working on Data Science [ml time series analysis and anomaly detection](commercial product reach me for more details)
-
 - All of my R.D projects Documentations @ [https://github.com/AhmedHefnawy](https://github.com/AhmedHefnawy)
 
 - Ask Me about **ML, DL, Analytics, Computer Vision, R.D**
